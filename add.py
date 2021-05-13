@@ -1,5 +1,6 @@
 a=12
 b=34
-c=41
-print(a+b)
-print(a+b+c)
+print("add: "a+b)
+print("mult: "a*b)
+print("sub: "a-b)
+print("div: "a/b)
